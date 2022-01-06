@@ -34,5 +34,5 @@ The Wearable Part of the device functions like a headset, with electronics being
   
 
 
-**Result:** The resulting prototype was able to consistently measure respiration rate (which was the most innovative part of the code). The core body temperature measurement was limited because the team was not able to acquire the preferred temperature sensor in time. Unfortunately, the heart rate detection only works well when the temperature measurement functionality are commented out in the ESP32 code.
+**Result:** The resulting prototype was able to consistently measure respiration rate (which was the most innovative part of the code). The core body temperature measurement was limited because the team was not able to acquire the preferred temperature sensor in time. Unfortunately, the heart rate detection only works well when the temperature measurement functionality are commented out in the ESP8266 code.
 
