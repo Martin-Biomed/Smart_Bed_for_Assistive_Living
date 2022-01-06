@@ -28,10 +28,9 @@ The respiration rate measurement was done using load cells placed on a removable
 The Wearable Part of the device functions like a headset, with electronics being fitted above both ears:
 
 
+
 ![image](https://user-images.githubusercontent.com/50542181/148348648-771819e5-f46d-44b7-a008-0fb4acad3469.png)
 
-![image](https://user-images.githubusercontent.com/50542181/148348149-ed1a6ba3-beed-46fc-9152-f0fd8dcbe36e.png)
-
-![image](https://user-images.githubusercontent.com/50542181/148348286-9fe3cd9b-47af-4d7e-b145-2efea1ad8cdb.png)
+  ![image](https://user-images.githubusercontent.com/50542181/148348149-ed1a6ba3-beed-46fc-9152-f0fd8dcbe36e.png) ![image](https://user-images.githubusercontent.com/50542181/148348286-9fe3cd9b-47af-4d7e-b145-2efea1ad8cdb.png)
 
 
