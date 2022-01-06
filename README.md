@@ -24,7 +24,7 @@ The respiration rate measurement was done using load cells placed on a removable
 
 
 
-The Wearable Part of the device functions like a headset, with electronics being fitted above both ears:
+The Wearable Part of the device functions like a headset, with electronics being fitted above both ears. Both the temperature and the heart rate sensors are fitted to the same ear. The ESP8266 is housed in the other ear, with a direct connection to an arm-mounted LiPo battery:
 
 
 
